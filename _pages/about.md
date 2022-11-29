@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hompage of Zhuming Shi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,128 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I'm an undergraduate student at Peking University, [School of Electronics Engineering and Computer Science (EECS)](http://eecs.pku.edu.cn/Home/HOME.htm) and [Center of Frontiers of Computing Studies](http://cfcs.pku.edu.cn). I'm a student of professor Deng Xiaotie, work in daGAME laboratory. My research interests are theoretical computer science and its applications in economics, such like fair divisions, auction design, and machine learning applications. I have 2 publications in progress，and some ongoing research projects.
 
+My email is shizhuming at pku.edu.cn
+
+Publications
+======
+[Under Review] Dynamic Budget Throttling in Repeated Second-Price Auctions
+------
+Authors: Zhaohua Chen, Chang Wang, Qian Wang, Yuqi Pan, Zhuming Shi, Chuyue Tang,  Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng
+
+Throttling is one of the most popular budget control methods in today's online advertising markets. When a budget-constrained advertiser employs throttling, she can choose whether or not to participate in an auction after the advertising platform recommends a bid. This paper focuses on the dynamic budget throttling process in repeated second-price auctions from a theoretical view. We propose the OGD-CB algorithm, which involves simultaneous distribution learning and revenue optimization. In both settings, we demonstrate that this algorithm guarantees an $O(\sqrt{T\log T})$ regret with probability $1−O(1/T)$ relative to the fluid adaptive throttling benchmark.
+
+This paper has been posted on arxiv, [https://arxiv.org/abs/2207.04690](https://arxiv.org/abs/2207.04690)
+
+[Under Review] Development and validation of a clinical support system for predicting incident frailty among community-dwelling older adults: A prospective cohort study
+------
+Corresponding Author: Dr. Cuili Wang
+
+Co-Authors: Qinqin Liu, PhD; Liming Yang; Zhuming Shi; Jiaqi Yu; Huaxin Si, PhD; Yaru Jin, PhD; Yanhui Bian, PhD; Yanyan Li, PhD; Lili Ji, PhD; Xiaoxia Qiao, PhD; Wenyu Wang; Ming Zhang, Professor
+
+We use an artificial neural network to predict old people's weakness in two years with biochemical indicators. And then we construct a website to make the model accessible to the world.
+
+This paper has been submitted to International Journal of Nursing Studies and preprinted on SSRN, [http://ssrn.com/abstract=4170632](http://ssrn.com/abstract=4170632)
+
+
+Research experience
+======
+
+October 2021 - October 2022 Undergraduate Research
+------
+Mentors: Xiaotie Deng (Peking University).
+
+We focus on dynamic online advertising auctions with burget constraint and private value distribution. We propose an algorithm guarantees an $O(\sqrt{T\log T})$ regret with probability $1−O(1/T)$ relative to the fluid adaptive throttling benchmark.
+
+October 2020 - May 2021 Challenge Cup 2021
+------
+Mentors: Ming Zhang (Peking University).
+
+We use an artificial neural network to predict old people's weakness in two years with biochemical indicators. And then we construct a website to make the model accessible to the world. The source code will be open source when this project finished.
+
+October 2019 - May 2020 Challenge Cup 2020
+------
+Mentors: Jiaying Liu (Peking University).
+
+An artificial neural network was imployed in our work to map the IIM data to the distribution of the six major oxides on the moon. Finally we got new maps of lunar surface chemistry. The source code is open source on [https://github.com/ShiZhuming/ChallengeCup](https://github.com/ShiZhuming/ChallengeCup)
+
+Teaching Assistant Experience
+======
+
+- Fall 2022 **Teaching assistant** 
+  
+  Introduction to Computer Systems (Peking University)
+
+- Fall 2021 **Teaching assistant** 
+  
+  Introduction to Computer Systems (Peking University)
+
+- Fall 2019 **Teaching assistant** 
+  
+  Cycling education (Peking University)
+
+Acadmic Volunteer experience
+======
+- August 2022 **ijtcs 2022 Organizing Committee**
+
+  International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom, City University of Hong Kong, Hong Kong
+
+- August 2021 **ijtcs 2021 Volunteer**
+
+  International Joint Conference On Theoretical Computer Science, Peking University, Beijing
+
+Education
+======
+- 2020 - Present **Peking University** 
+
+  Turing Class, Center on Frontiers of Computing Studies
+
+- 2019 - 2020 **Peking University** 
+
+  School of Electronics Engineering and Computer Science
+
+- 2018 -- 2019 **Peking University** 
+
+  College of Chemistry and Molecular Engineering
+
+Honors and scholarships
+======
+- 2020 Excellent Scientific Research Award (Peking University)
+
+- 2020 Third Prize as first author (Challenge Cup of Peking University)
+
+- 2019 Second Class Scholarship of Peking University (Peking University)
+
+- 2019 Sanhao student (Peking University)
+
+- 2019 Second Prize (Contemporary Undergraduate Mathematical Contest in Modeling)
+
+- 2017 Gold medal of 31st Chinese Chemical Olympiad (Southern University of Science and Technology, Chinese Chemical Society, China Association for Science and Technology)
+
+Technical skills
+======
+- Programming languages
+  
+  - Proficient in: Python, C++
+  
+  - Familiar with: HTML
+
+- Software : LaTeX, Git
+
+- Languages : English, Japanese
+
+Other interests
+======
+- Bike cycling
+
+  I have been captain of Peking University Venue Cycling Team for one term.
+
+- Photographing
+
+  My photos have been posted on website of Center on Frontiers of Computing Studies of Peking University.
+
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -19,11 +139,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
@@ -47,4 +167,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
