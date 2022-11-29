@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Zhuming Shi"
+title                    : "Zhuming Shi"
 title_separator          : "-"
 name                     : &name "Zhuming Shi"
 description              : &description "Homepage of Zhuming Shi"
