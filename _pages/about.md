@@ -21,7 +21,7 @@ Authors: Zhaohua Chen, Chang Wang, Qian Wang, Yuqi Pan, Zhuming Shi, Chuyue Tang
 
 Throttling is one of the most popular budget control methods in today's online advertising markets. When a budget-constrained advertiser employs throttling, she can choose whether or not to participate in an auction after the advertising platform recommends a bid. This paper focuses on the dynamic budget throttling process in repeated second-price auctions from a theoretical view. We propose the OGD-CB algorithm, which involves simultaneous distribution learning and revenue optimization. In both settings, we demonstrate that this algorithm guarantees an $O(\sqrt{T\log T})$ regret with probability $1−O(1/T)$ relative to the fluid adaptive throttling benchmark.
 
-This paper has been posted on arxiv, [https://arxiv.org/abs/2207.04690](https://arxiv.org/abs/2207.04690)
+This paper has been posted on arXiv, [https://arxiv.org/abs/2207.04690](https://arxiv.org/abs/2207.04690)
 
 [Under Review] Development and validation of a clinical support system for predicting incident frailty among community-dwelling older adults: A prospective cohort study
 ------
