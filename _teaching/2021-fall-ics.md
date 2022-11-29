@@ -16,6 +16,9 @@ What we TA do
 ======
 As a TA of this course, I gives talks about extensions of this course 2 hours per week, organises discussions weekly, and dictates midterm and final exam questions. This is my first year as a TA for this course.
 
+Website of this course
+======
+[http://www.dean.pku.edu.cn/service/web/courseDetailEn.php?flag=1&zxjhbh=BZ2223104833040_25430](http://www.dean.pku.edu.cn/service/web/courseDetailEn.php?flag=1&zxjhbh=BZ2223104833040_25430)
 <!-- Heading 1
 ======
 
