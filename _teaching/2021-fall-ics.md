@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2021-fall-ics
 venue: "Peking University, School of Electronics Engineering and Computer Science"
-date: 2021-fall
+date: 2021-09-01
 location: "Beijing, China"
 ---
 
