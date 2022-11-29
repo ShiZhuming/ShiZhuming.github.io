@@ -11,10 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020 - Present **Peking University** 
+  * Turing Class, Center on Frontiers of Computing Studies
+* 2019 - 2020 **Peking University** 
+  * School of Electronics Engineering and Computer Science
+* 2018 -- 2019 **Peking University** 
+  * College of Chemistry and Molecular Engineering
 
+Honors and scholarships
+======
+* 2020 Excellent Scientific Research Award (Peking University)
+* 2020 Third Prize as first author (Challenge Cup of Peking University)
+* 2019 Second Class Scholarship of Peking University (Peking University)
+* 2019 Sanhao student (Peking University)
+* 2019 Second Prize (Contemporary Undergraduate Mathematical Contest in Modeling)
+* 2017 Gold medal of 31st Chinese Chemical Olympiad (Southern University of Science and Technology, Chinese Chemical Society, China Association for Science and Technology)
+
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -25,16 +38,15 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * Proficient in: Python, C++
+  * Familiar with: HTML
+* Software : LaTeX, Git
+* Languages : English, Japanese
 
 Publications
 ======
@@ -54,6 +66,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
