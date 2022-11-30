@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of Introduction to Computer Systems 2022 fall"
+title: "Teaching Assistant of Introduction to Computer Systems 2021 fall"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2021-fall-ics
