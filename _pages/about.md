@@ -31,11 +31,18 @@ Co-Authors: Qinqin Liu, PhD; Liming Yang; Zhuming Shi; Jiaqi Yu; Huaxin Si, PhD;
 
 We use an artificial neural network to predict old people's weakness in two years with biochemical indicators. And then we construct a website to make the model accessible to the world.
 
-This paper has been submitted to International Journal of Nursing Studies and preprinted on SSRN, [http://ssrn.com/abstract=4170632](http://ssrn.com/abstract=4170632)
+This paper has been submitted to International Journal of Nursing Studies and currently under review.
 
 
 Research experience
 ======
+
+June 2022 -- Present Summer Research Intern
+------
+Mentors: Yang Cai (Yale University).
+
+We focus on lower bounds of regret in No-regret learning algorithms in self-play games. Our perpose is to achieve a near optimal lower bound of no-regret learning in games, for example, $O(1)$ lower bound. Numerical experiments are employed in our research. This research is still in process.
+
 
 October 2021 - October 2022 Undergraduate Research
 ------
