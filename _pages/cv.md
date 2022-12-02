@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can down my CV [here](/files/CV_of_Zhuming_Shi.pdf)
+
 Education
 ======
 * 2020 - Present **Peking University** 
