@@ -17,40 +17,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching Assistant Experience
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Publications
-======
-
-[Under Review] Dynamic Budget Throttling in Repeated Second-Price Auctions
-------
-Authors: Zhaohua Chen, Chang Wang, Qian Wang, Yuqi Pan, Zhuming Shi, Chuyue Tang,  Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng
-
-Throttling is one of the most popular budget control methods in today's online advertising markets. When a budget-constrained advertiser employs throttling, she can choose whether or not to participate in an auction after the advertising platform recommends a bid. This paper focuses on the dynamic budget throttling process in repeated second-price auctions from a theoretical view. We propose the OGD-CB algorithm, which involves simultaneous distribution learning and revenue optimization. In both settings, we demonstrate that this algorithm guarantees an $O(\sqrt{T\log T})$ regret with probability $1−O(1/T)$ relative to the fluid adaptive throttling benchmark.
-
-This paper has been posted on arXiv, [https://arxiv.org/abs/2207.04690](https://arxiv.org/abs/2207.04690)
-
-[Under Review] Development and validation of a clinical support system for predicting incident frailty among community-dwelling older adults: A prospective cohort study
-------
-Corresponding Author: Dr. Cuili Wang
-
-Co-Authors: Qinqin Liu, PhD; Liming Yang; Zhuming Shi; Jiaqi Yu; Huaxin Si, PhD; Yaru Jin, PhD; Yanhui Bian, PhD; Yanyan Li, PhD; Lili Ji, PhD; Xiaoxia Qiao, PhD; Wenyu Wang; Ming Zhang, Professor
-
-We use an artificial neural network to predict old people's weakness in two years with biochemical indicators. And then we construct a website to make the model accessible to the world.
-
-This paper has been submitted to International Journal of Nursing Studies and currently under review.
-
 
 Research experience
 ======
@@ -79,6 +45,12 @@ October 2019 - May 2020 Challenge Cup 2020
 Mentors: Jiaying Liu (Peking University).
 
 An artificial neural network was imployed in our work to map the IIM data to the distribution of the six major oxides on the moon. Finally we got new maps of lunar surface chemistry. The source code is open source on [https://github.com/ShiZhuming/ChallengeCup](https://github.com/ShiZhuming/ChallengeCup)
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Teaching Assistant Experience
 ======
