@@ -137,6 +137,23 @@ Other interests
 
   My photos have been posted on website of Center on Frontiers of Computing Studies of Peking University.
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching Assistant Experience
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 <!-- 
 A data-driven personal website
 ======
