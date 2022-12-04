@@ -32,7 +32,7 @@ October 2021 - October 2022 Undergraduate Research
 ------
 Mentors: Xiaotie Deng (Peking University).
 
-Throttling is one of the most popular budget control methods in today's online advertising markets. When a budget-constrained advertiser employs throttling, she can choose whether or not to participate in an auction after the advertising platform recommends a bid. This paper focuses on the dynamic budget throttling process in repeated second-price auctions from a theoretical view. We propose the OGD-CB algorithm, which involves simultaneous distribution learning and revenue optimization. In both settings, we demonstrate that this algorithm guarantees an $O(\sqrt{T\log T})$ regret with probability $1−O(1/T)$ relative to the fluid adaptive throttling benchmark.
+Throttling is one of the most popular budget control methods in today's online advertising markets. When a budget-constrained advertiser employs throttling, she can choose whether or not to participate in an auction after the advertising platform recommends a bid. This paper focuses on the dynamic budget throttling process in repeated second-price auctions from a theoretical view. Different information structures, whether or not the bidder can access the highest competing bid, were also taken into consideration. We propose the OGD-CB algorithm, which involves simultaneous distribution learning and revenue optimization. In both settings, we demonstrate that this algorithm guarantees an $O(\sqrt{T\log T})$ regret with probability $1−O(1/T)$ relative to the fluid adaptive throttling benchmark.
 
 October 2020 - May 2021 Challenge Cup 2021
 ------
