@@ -25,7 +25,7 @@ June 2022 -- Present Summer Research Intern
 ------
 Mentors: Yang Cai (Yale University).
 
-We focus on lower bounds of regret in No-regret learning algorithms in self-play games. Our perpose is to achieve a near optimal lower bound of no-regret learning in games, for example, $O(1)$ lower bound. Numerical experiments are employed in our research. This research is still in process.
+We focus on lower bounds of regret in No-regret learning algorithms in self-play games. Our target is to achieve a near optimal lower bound of no-regret learning in games, for example, $O(1)$ lower bound. Numerical experiments are employed in our research. This research is still in process.
 
 
 October 2021 - October 2022 Undergraduate Research
