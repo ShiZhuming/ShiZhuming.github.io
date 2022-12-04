@@ -77,7 +77,7 @@ Teaching Assistant Experience
   
   Cycling education (Peking University)
 
-Acadmic Volunteer experience
+Academic Volunteer experience
 ======
 - August 2022 **ijtcs 2022 Organizing Committee**
 

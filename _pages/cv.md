@@ -29,6 +29,17 @@ Honors and scholarships
 * 2019 Second Prize (Contemporary Undergraduate Mathematical Contest in Modeling)
 * 2017 Gold medal of 31st Chinese Chemical Olympiad (Southern University of Science and Technology, Chinese Chemical Society, China Association for Science and Technology)
 
+Academic Volunteer experience
+======
+- August 2022 **ijtcs 2022 Organizing Committee**
+
+  International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom, City University of Hong Kong, Hong Kong
+
+- August 2021 **ijtcs 2021 Volunteer**
+
+  International Joint Conference On Theoretical Computer Science, Peking University, Beijing
+
+
 <!-- 
 Work experience
 ======
